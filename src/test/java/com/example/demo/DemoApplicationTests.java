@@ -10,7 +10,7 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 		String string1="Junit";					
-        	String string2="Junit1";	
+        	String string2="Junit";	
 		  assertEquals(string1,string2);	
 	}
 
