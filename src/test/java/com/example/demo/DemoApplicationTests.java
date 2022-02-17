@@ -8,8 +8,9 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		String str = "Hello World";
-		assertEquals("Hello World",str);
+		String string1="Junit";					
+        	String string2="Junit";	
+		  assertEquals(string1,string2);	
 	}
 
 }
