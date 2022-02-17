@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals(-25,obj.sum(-10,-15))
+		assertEquals(-25,obj.sum(-10,-15));
 	}
 
 }
