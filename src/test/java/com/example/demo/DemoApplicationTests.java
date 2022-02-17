@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
-		assertEquals("Hello World","Hello World");
+		assertEquals(3,3);
 	}
 
 }
